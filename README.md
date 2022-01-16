@@ -1,6 +1,8 @@
 # Mintoir: Minting memories through the blockchain. (DeltaHacks8 Submission)
 The codebase for Mintoir, our team's DeltaHacks8 submission.
 
+![original-1](https://user-images.githubusercontent.com/29025984/149682775-8df84f4a-87ff-41f9-8450-e00f6b3ca090.png)
+
 ## 💡 Inspiration
 Memories are too precious to be lost in the abyss of time. That’s why we take pictures, send holiday greeting cards, and keep heirlooms. With the COVID-19 pandemic, we lost the ability to truly store these sentimental memories. For example, we can no longer send postcards around the world without 6-month+ delays. 
 
