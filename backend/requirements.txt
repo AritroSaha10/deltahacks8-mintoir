@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+mediapipe
+Pillow
+flask
+flask_cors
+gunicorn
+requests
